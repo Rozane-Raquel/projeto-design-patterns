@@ -8,6 +8,17 @@ O projeto simula um sistema simples de produtos e carrinho de compras, permitind
 
 A aplicação trabalha com produtos do tipo camisa, permitindo selecionar diferentes modelos, personalizar características e adicionar opções extras ao produto antes de incluí-lo no carrinho.
 
+## 👥 Equipe
+
+Projeto desenvolvido em equipe por três estudantes do curso de Sistemas de Informação do IFCE.
+
+ - Ana Laís Macedo Fonte
+ - Matheus Soares do Nascimento
+ - Rozane Raquel da Silva Gonçalves
+
+O projeto foi desenvolvido originalmente como atividade acadêmica e posteriormente versionado no GitHub pela integrante Rozane Raquel. Por esse motivo, o histórico de commits do repositório não representa a participação individual de cada integrante no desenvolvimento.
+
+
 ## 🧩 Design Patterns utilizados
 
 ### Factory
@@ -50,6 +61,7 @@ O fluxo principal utiliza `clone()` para criar uma cópia do produto selecionado
 - Java
 - Programação Orientada a Objetos
 - Design Patterns
+  
 
 ## ▶️ Como executar
 
@@ -63,3 +75,4 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/Rozane-Raquel/projeto-design-patterns.git
+
