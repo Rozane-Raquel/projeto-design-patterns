@@ -45,7 +45,7 @@ Utilizado para criar novos produtos a partir da clonagem de objetos existentes, 
 
 O fluxo principal utiliza `clone()` para criar uma cópia do produto selecionado antes de realizar sua personalização.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Visualização dos produtos disponíveis;
 - Seleção de produtos para o carrinho;
