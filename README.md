@@ -2,13 +2,13 @@
 
 Projeto acadêmico desenvolvido em equipe para a disciplina de Programação Orientada a Objetos (POO), com foco na aplicação prática de padrões de projeto em Java.
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 O projeto simula um sistema simples de produtos e carrinho de compras, permitindo visualizar na prática como diferentes Design Patterns podem ser utilizados para organizar e flexibilizar a estrutura de uma aplicação.
 
 A aplicação trabalha com produtos do tipo camisa, permitindo selecionar diferentes modelos, personalizar características e adicionar opções extras ao produto antes de incluí-lo no carrinho.
 
-## 👥 Equipe
+## Equipe
 
 Projeto desenvolvido em equipe por três estudantes do curso de Sistemas de Informação do IFCE.
 
@@ -19,7 +19,7 @@ Projeto desenvolvido em equipe por três estudantes do curso de Sistemas de Info
 O projeto foi desenvolvido originalmente como atividade acadêmica e posteriormente versionado no GitHub pela integrante Rozane Raquel. Por esse motivo, o histórico de commits do repositório não representa a participação individual de cada integrante no desenvolvimento.
 
 
-## 🧩 Design Patterns utilizados
+## Design Patterns utilizados
 
 ### Factory
 
@@ -56,14 +56,14 @@ O fluxo principal utiliza `clone()` para criar uma cópia do produto selecionado
 - Personalização dinâmica utilizando Decorator;
 - Visualização dos produtos adicionados ao carrinho.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Java
 - Programação Orientada a Objetos
 - Design Patterns
   
 
-## ▶️ Como executar
+## Como executar
 
 ### Pré-requisitos
 
